@@ -16,7 +16,7 @@ This Power BI report provides an in-depth analysis of employee earnings, salary 
 
 ## 📂 Files  
 - `Employee_Salary_Analysis.pbix` - The Power BI report file.  
-- `data/` - (Optional) Raw dataset used in the analysis.  
+
 
 ## 🚀 How to Use  
 1. Download the `.pbix` file.  
@@ -26,7 +26,6 @@ This Power BI report provides an in-depth analysis of employee earnings, salary 
 ## 🛠 Tools Used  
 - **Power BI** for visualization and analysis.  
 - **DAX (Data Analysis Expressions)** for calculations.  
-- **Excel / SQL** (if applicable) for data preprocessing.  
 
 ## 📬 Contact  
-For questions or collaboration, feel free to reach out on **[LinkedIn](your-link-here)**.  
+For questions or collaboration, feel free to reach out on **[LinkedIn](https://www.linkedin.com/in/vijaysimhareddy-mukka/)**.  
